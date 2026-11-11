@@ -1,0 +1,7 @@
+.link-icoon {
+    background-image: url("../images/link.png");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 18px 18px;
+    padding-left: 24px;
+}
