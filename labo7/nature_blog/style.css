@@ -1,0 +1,58 @@
+body {
+    width: 95%;
+    margin: auto;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+body > section > header {
+    background-image: url("header.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100px;
+}
+
+h1 {
+    color: white;
+    font-size: 32px;
+    margin: 0;
+    padding: 5px;
+}
+
+nav {
+    background-color: #444444;
+    padding: 5px;
+}
+
+nav a {
+    color: lightgreen;
+    text-decoration: none;
+}
+
+body > section > div {
+    background-color: white;
+}
+
+article {
+    background-color: #eeeeee;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+article h2 {
+    color: #444444;
+    text-decoration: underline;
+}
+
+article p {
+    font-size: 12px;
+}
+
+article footer a {
+    font-size: 12px;
+}
+
+body > section > footer {
+    font-size: 12px;
+    padding: 5px;
+}
